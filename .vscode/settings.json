@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "headerfile.h": "c",
+        "stdint.h": "c",
+        "hearderfile2.h": "c"
+    }
+}
